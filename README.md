@@ -1,2 +1,2 @@
 # danielriosbarboza.github.io
-My web site
+My web site / HTML / CSS
